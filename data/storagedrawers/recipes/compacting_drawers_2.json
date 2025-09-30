@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        "#X#",
+        "#I#"
+    ],
+    "key": {
+        "#": { "tag": "forge:plates/andesite_alloy" },
+        "T": { "item": "create:mechanical_press" },
+        "X": { "tag": "storagedrawers:full_drawers" },
+        "I": { "item": "create:electron_tube" }
+    },
+    "result": { "item": "storagedrawers:compacting_drawers_2" }
+}

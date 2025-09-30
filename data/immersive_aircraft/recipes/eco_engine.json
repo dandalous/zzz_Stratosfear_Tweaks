@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IWI",
+    "CEC"
+  ],
+  "key": {
+    "C": [
+      {
+        "tag": "forge:plates/iron"
+      }
+    ],
+    "W": [
+      {
+        "tag": "forge:water"
+      }
+    ],
+    "I": [
+      {
+        "tag": "forge:plates/iron"
+      }
+    ],
+    "E": [
+      {
+        "item": "immersive_aircraft:boiler"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:eco_engine"
+  }
+}

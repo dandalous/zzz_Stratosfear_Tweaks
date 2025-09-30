@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "bakery:jar"
+    },
+    "X": {
+      "item": "vintagedelight:apple_sauce_mason_jar"
+    }
+  },
+  "pattern": [
+    "X#",
+    "##"
+  ],
+  "result": {
+    "item": "bakery:apple_jam",
+    "count": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wheat",
+    "minecraft:bamboo_sapling",
+    "minecraft:bamboo",
+    {
+      "id": "vintagedelight:cucumber_crop",
+      "required": false
+    },
+    {
+      "id": "hexerei:sage_crop",
+      "required": false
+    }
+  ]
+}

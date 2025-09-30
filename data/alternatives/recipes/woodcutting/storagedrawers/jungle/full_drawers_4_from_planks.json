@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 2,
+    "ingredient": {
+        "item": "minecraft:jungle_planks"
+    },
+    "result": "storagedrawers:jungle_full_drawers_4"
+}

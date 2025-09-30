@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CC",
+        "CC"
+    ],
+    "key": {
+        "C": {
+            "item": "cold_sweat:goat_fur"
+        }
+    },
+    "result": {
+        "item": "minecraft:white_wool"
+    },
+    "show_notification": true
+}

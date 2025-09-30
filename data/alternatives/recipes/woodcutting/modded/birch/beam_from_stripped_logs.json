@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "minecraft:stripped_birch_log"
+    },
+    "result": "decorative_blocks:birch_beam"
+}

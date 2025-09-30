@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:rope", "required": false },
+    { "id": "farmersdelight:straw_bale", "required": false },
+    { "id": "supplementaries:flax_block", "required": false },
+    { "id": "vintagedelight:oat_bale", "required": false },
+    { "id": "bakery:oat_block", "required": false }
+  ]
+}

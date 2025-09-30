@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:andesite", "required": false },
+    { "id": "minecraft:polished_andesite", "required": false },
+    { "id": "#create:stone_types/andesite", "required": false }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:warped_planks"
+  },
+  "ingredient_count": 3,
+  "result": "nethervinery:warped_barrel"
+}

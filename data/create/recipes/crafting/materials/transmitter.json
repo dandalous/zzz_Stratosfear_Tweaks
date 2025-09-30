@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "createaddition:copper_spool"
+    },
+    {
+      "item": "minecraft:redstone_torch"
+    },
+    {
+      "item": "createaddition:capacitor"
+    }
+  ],
+  "result": {
+    "item": "create:transmitter"
+  },
+  "show_notification": true
+}

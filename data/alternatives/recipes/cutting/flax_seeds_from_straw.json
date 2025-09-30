@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:straw"
+    }
+  ],
+  "result": [
+    {
+      "chance": 0.75,
+      "item": "farmersdelight:straw"
+    },
+    {
+      "chance": 0.25,
+      "item": "supplementaries:flax_seeds"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "flax"
+    }
+  ],
+  "show_notification": true
+}

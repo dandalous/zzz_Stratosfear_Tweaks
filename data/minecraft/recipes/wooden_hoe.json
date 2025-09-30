@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:flint"
+    },
+    "S": [
+      {
+        "tag": "forge:string"
+      },
+      {
+        "item": "farmersdelight:straw"
+      }
+    ]
+  },
+  "pattern": [" XX", "S# ", " # "],
+  "result": {
+    "item": "minecraft:wooden_hoe"
+  },
+  "show_notification": true
+}

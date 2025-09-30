@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "tag": "forge:ingots/andesite_alloy"
+        },
+        {
+            "item": "create:electron_tube"
+        },
+        {
+            "item": "create:cogwheel"
+        }
+    ],
+    "result": {
+        "count": 4,
+        "item": "create:display_board"
+    },
+    "show_notification": true
+}

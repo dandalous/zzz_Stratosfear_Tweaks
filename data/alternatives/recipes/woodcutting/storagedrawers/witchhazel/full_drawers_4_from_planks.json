@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 2,
+    "ingredient": {
+        "tag": "hexerei:witch_hazel_planks"
+    },
+    "result": "everycomp:sd/hexerei/witch_hazel_full_drawers_4"
+}

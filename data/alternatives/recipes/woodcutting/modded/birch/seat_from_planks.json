@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 6,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "minecraft:birch_planks"
+    },
+    "result": "decorative_blocks:birch_seat"
+}

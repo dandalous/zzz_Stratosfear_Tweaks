@@ -1,0 +1,33 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ],
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "tag": "forge:oat"
+        }
+    ],
+    "processingTime": 150,
+    "results": [
+        {
+            "item": "vintagedelight:raw_oats"
+        },
+        {
+            "count": 2,
+            "chance": 0.5,
+            "item": "vintagedelight:raw_oats"
+        },
+        {
+            "chance": 0.25,
+            "item": "vintagedelight:oat_seeds"
+        },
+        {
+            "chance": 0.25,
+            "item": "farmersdelight:straw"
+        }
+    ]
+}

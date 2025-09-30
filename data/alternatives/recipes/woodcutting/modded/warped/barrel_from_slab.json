@@ -1,0 +1,8 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:warped_slab"
+  },
+  "ingredient_count": 6,
+  "result": "nethervinery:warped_barrel"
+}

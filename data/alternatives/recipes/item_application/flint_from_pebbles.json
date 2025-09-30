@@ -1,0 +1,26 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "twigs:pebble"
+    },
+    {
+      "item": "twigs:pebble"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.33,
+      "item": "minecraft:flint"
+    },
+    {
+      "chance": 0.66,
+      "item": "twigs:pebble"
+    },
+    {
+      "chance": 0.99,
+      "item": "twigs:pebble"
+    }
+  ],
+  "show_notification": true
+}

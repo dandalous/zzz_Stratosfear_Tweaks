@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:mud", "required": false },
+        { "id": "immersive_weathering:grassy_silt", "required": false },
+        { "id": "immersive_weathering:silt", "required": false },
+        { "id": "twigs:silt", "required": false }
+    ]
+}

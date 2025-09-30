@@ -1,0 +1,6 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "naturalist:teddy_bear", "required": false }
+    ]
+}

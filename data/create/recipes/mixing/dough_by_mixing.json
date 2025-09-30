@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:flour/wheat"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:water",
+      "nbt": { }
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "farmersdelight:wheat_dough"
+    }
+  ]
+}

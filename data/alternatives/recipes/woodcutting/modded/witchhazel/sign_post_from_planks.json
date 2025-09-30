@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 2,
+    "ingredient": {
+        "tag": "hexerei:witch_hazel_planks"
+    },
+    "ingredient_count": 1,
+    "result": "supplementaries:hexerei/sign_post_witch_hazel"
+}

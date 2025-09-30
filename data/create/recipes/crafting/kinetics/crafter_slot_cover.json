@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "misc",
+  "ingredient": {
+    "tag": "forge:plates/brass"
+  },
+  "count": 4,
+  "result": "create:crafter_slot_cover",
+  "show_notification": true
+}

@@ -1,0 +1,49 @@
+{
+    "type": "forge:conditional",
+    "recipes": [
+        {
+            "conditions": [
+                {
+                    "type": "delightful:enabled",
+                    "value": "acorn_sack"
+                }
+            ],
+            "recipe": {
+                "type": "minecraft:crafting_shapeless",
+                "category": "building",
+                "ingredients": [
+                    {
+                        "item": "delightful:roasted_acorn"
+                    },
+                    {
+                        "item": "delightful:roasted_acorn"
+                    },
+                    {
+                        "item": "delightful:roasted_acorn"
+                    },
+                    {
+                        "item": "delightful:roasted_acorn"
+                    },
+                    {
+                        "item": "delightful:roasted_acorn"
+                    },
+                    {
+                        "item": "delightful:roasted_acorn"
+                    },
+                    {
+                        "item": "delightful:roasted_acorn"
+                    },
+                    {
+                        "item": "delightful:roasted_acorn"
+                    },
+                    {
+                        "item": "delightful:roasted_acorn"
+                    }
+                ],
+                "result": {
+                    "item": "delightful:acorn_sack"
+                }
+            }
+        }
+    ]
+}

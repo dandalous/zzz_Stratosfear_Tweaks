@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "a": {
+            "tag": "forge:ingots/andesite_alloy"
+        },
+        "r": {
+            "tag": "forge:rods/electrum"
+        }
+    },
+    "pattern": [
+        " r ",
+        "ara",
+        "ara"
+    ],
+    "result": {
+        "item": "createaddition:large_connector",
+        "count": 4
+    }
+}

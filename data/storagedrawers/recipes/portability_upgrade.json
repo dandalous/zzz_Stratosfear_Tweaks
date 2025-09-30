@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "storagedrawers:upgrade_template"
+  },
+  "addition": {
+    "item": "minecraft:shulker_shell"
+  },
+  "result": {
+    "item": "storagedrawers:portability_upgrade"
+  },
+  "template": {
+    "item": "minecraft:shulker_shell"
+  }
+}

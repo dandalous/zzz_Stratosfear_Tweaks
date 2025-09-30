@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["#C#", "PXP", "#D#"],
+  "key": {
+    "#": { "tag": "forge:plates/andesite_alloy" },
+    "P": { "item": "create:andesite_funnel" },
+    "C": { "item": "create:item_hatch" },
+    "X": { "tag": "storagedrawers:drawers" },
+    "D": { "item": "create:electron_tube" }
+  },
+  "result": { "item": "storagedrawers:controller" }
+}

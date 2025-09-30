@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bakery:red_nether_bricks_stove"
+        }
+      ],
+      "functions": [
+        {
+          "function": "set_nbt",
+          "tag": "{BlockStateTag:{lit:\"false\"}}"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "farmersdelight:kelp_roll", "required": false },
+        { "id": "farmersdelight:rice_roll_medley_block", "required": false },
+        { "id": "farmersdelight:shepherds_pie_block", "required": false },
+        { "id": "farmersdelight:honey_glazed_ham_block", "required": false },
+        { "id": "farmersdelight:stuffed_pumpkin_block", "required": false },
+        { "id": "farmersdelight:roast_chicken_block", "required": false },
+        { "id": "mynethersdelight:raw_stuffed_hoglin", "required": false },
+        { "id": "mynethersdelight:roast_stuffed_hoglin", "required": false },
+        { "id": "mynethersdelight:striderloaf", "required": false },
+        { "id": "mynethersdelight:ghasta_with_cream", "required": false },
+        { "id": "mynethersdelight:magma_cake", "required": false },
+        { "id": "delightful:salmonberry_pie", "required": false },
+        { "id": "delightful:baklava", "required": false },
+        { "id": "delightful:stuffed_cantaloupe_block", "required": false },
+        { "id": "bakery:apple_pie", "required": false },
+        { "id": "bakery:strawberry_cake", "required": false },
+        { "id": "bakery:sweetberry_cake", "required": false },
+        { "id": "bakery:chocolate_cake", "required": false },
+        { "id": "bakery:chocolate_gateau", "required": false },
+        { "id": "bakery:bundt_cake", "required": false },
+        { "id": "bakery:linzer_tart", "required": false },
+        { "id": "bakery:glowberry_tart", "required": false },
+        { "id": "bakery:chocolate_tart", "required": false },
+        { "id": "bakery:pudding", "required": false },
+        { "id": "bakery:bread_crate", "required": false },
+        { "id": "bakery:chocolate_box", "required": false },
+        { "id": "rainbowreef:angelfish_cake", "required": false }
+    ]
+}

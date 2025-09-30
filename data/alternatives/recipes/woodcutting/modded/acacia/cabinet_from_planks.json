@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 2,
+    "ingredient": {
+        "item": "minecraft:acacia_planks"
+    },
+    "result": "farmersdelight:acacia_cabinet"
+}

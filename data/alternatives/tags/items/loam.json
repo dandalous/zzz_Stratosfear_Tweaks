@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:podzol", "required": false },
+        { "id": "immersive_weathering:loam", "required": false }
+    ]
+}

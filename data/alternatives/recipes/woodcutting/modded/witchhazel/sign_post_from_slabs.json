@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient": {
+        "item": "hexerei:witch_hazel_slab"
+    },
+    "ingredient_count": 1,
+    "result": "supplementaries:hexerei/sign_post_witch_hazel"
+}

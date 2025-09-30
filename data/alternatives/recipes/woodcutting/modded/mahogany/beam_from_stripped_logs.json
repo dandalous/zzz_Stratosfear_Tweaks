@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "hexerei:stripped_mahogany_log"
+    },
+    "result": "everycomp:db/hexerei/mahogany_beam"
+}

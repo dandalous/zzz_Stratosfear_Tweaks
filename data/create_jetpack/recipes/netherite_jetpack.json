@@ -1,0 +1,35 @@
+{
+  "type": "create_jetpack:copy_nbt_mechanical_crafting",
+  "pattern": [
+    " PEP ",
+    "PYXYP",
+    "PFSFP",
+    " C C "
+  ],
+  "key": {
+    "E": {
+      "item": "immersive_aircraft:gyroscope"
+    },
+    "C": {
+      "item": "create:chute"
+    },
+    "X": {
+      "item": "create:netherite_backtank"
+    },
+    "S": {
+      "item": "createaddition:alternator"
+    },
+    "Y": {
+      "item": "create:precision_mechanism"
+    },
+    "P": {
+      "tag": "forge:plates/brass"
+    },
+    "F": {
+      "item": "create:encased_fan"
+    }
+  },
+  "result": {
+    "item": "create_jetpack:netherite_jetpack"
+  }
+}

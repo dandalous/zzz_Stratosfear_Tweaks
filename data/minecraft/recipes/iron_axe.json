@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
+  "addition": {
+    "tag": "forge:plates/iron"
+  },
+  "result": {
+    "item": "minecraft:iron_axe"
+  },
+  "template": {
+    "tag": "forge:slimeballs"
+  }
+}

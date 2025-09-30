@@ -1,0 +1,31 @@
+{
+  "type": "doapi:conditional",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "recipe": {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "amount": 250,
+        "fluid": "minecraft:water",
+        "nbt": { }
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:brown_mushroom"
+      }
+    ],
+    "results": [
+      {
+        "item": "bakery:yeast",
+        "count": 12
+      }
+    ]
+  }
+}

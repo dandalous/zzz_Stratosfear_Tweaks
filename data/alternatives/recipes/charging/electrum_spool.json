@@ -1,0 +1,13 @@
+{
+	"type": "createaddition:charging",
+	"input": {
+		"item": "createaddition:gold_spool",
+		"count": 1
+	},
+	"result": {
+		"item": "createaddition:electrum_spool",
+		"count": 1
+	},
+	"energy": 1000,
+	"maxChargeRate": 200
+}

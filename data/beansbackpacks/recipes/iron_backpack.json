@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "category": "equipment",
+  "template": {
+    "item": "create:item_hatch"
+  },
+  "base": {
+    "item": "create:item_vault"
+  },
+  "addition": {
+    "item": "beansbackpacks:backpack"
+  },
+  "result": {
+    "item": "beansbackpacks:metal_backpack"
+  }
+}

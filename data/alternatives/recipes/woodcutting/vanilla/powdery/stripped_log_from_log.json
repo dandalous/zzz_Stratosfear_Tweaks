@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_block"
+  },
+  "result": "mynethersdelight:stripped_powdery_block"
+}

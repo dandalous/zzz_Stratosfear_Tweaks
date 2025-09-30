@@ -1,0 +1,30 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "galley",
+  "pattern": [
+    "  f  ",
+    " lsl ",
+    "fwswf",
+    " bbb "
+  ],
+  "key": {
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "b": {
+      "item": "minecraft:birch_boat"
+    },
+    "f": {
+      "item": "minecraft:birch_fence"
+    },
+    "w": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "result": {
+    "item": "smallships:birch_galley"
+  }
+}

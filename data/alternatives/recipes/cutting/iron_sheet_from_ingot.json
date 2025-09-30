@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "result": [
+    {
+      "item": "create:iron_sheet"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/hammers"
+  }
+}

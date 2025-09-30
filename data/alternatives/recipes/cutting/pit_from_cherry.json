@@ -1,0 +1,20 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "vinery:cherry"
+        }
+    ],
+    "result": [
+        {
+            "item": "vinery:dark_cherry_sapling"
+        },
+        {
+            "chance": 0.5,
+            "item": "vinery:dark_cherry_sapling"
+        }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    }
+}

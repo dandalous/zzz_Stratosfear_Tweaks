@@ -1,0 +1,27 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    [{
+      "item": "minecraft:stone"
+    },{
+      "item": "immersive_weathering:mossy_stone"
+    }],
+    {
+      "item": "twigs:pebble"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "chance": 0.99,
+      "item": "twigs:pebble"
+    },
+    {
+      "chance": 0.50,
+      "item": "twigs:pebble"
+    }
+  ],
+  "show_notification": true
+}

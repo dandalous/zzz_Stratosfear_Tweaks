@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:spyglass", "required": false },
+        { "id": "minecraft:flint_and_steel", "required": false },
+        { "id": "exposure:camera", "required": false },
+        { "id": "vinery:basket", "required": false },
+        { "id": "#forge:buckets", "required": false },
+        { "id": "#forge:tools/knives", "required": false },
+        { "id": "#forge:tools/wrench", "required": false }
+    ]
+}

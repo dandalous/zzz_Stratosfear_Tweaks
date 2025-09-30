@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:skeleton_skull"
+    }
+  ],
+  "result": [
+    {
+      "count": 3,
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "chance": 0.33,
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/hammers"
+  }
+}

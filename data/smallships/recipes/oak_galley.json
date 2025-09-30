@@ -1,0 +1,30 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "galley",
+  "pattern": [
+    "  f  ",
+    " lsl ",
+    "fwswf",
+    " bbb "
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "b": {
+      "item": "minecraft:oak_boat"
+    },
+    "f": {
+      "item": "minecraft:oak_fence"
+    },
+    "w": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "result": {
+    "item": "smallships:oak_galley"
+  }
+}

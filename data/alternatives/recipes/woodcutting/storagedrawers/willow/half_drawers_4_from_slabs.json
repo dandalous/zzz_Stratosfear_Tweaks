@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 2,
+    "ingredient": {
+        "item": "hexerei:willow_slab"
+    },
+    "result": "everycomp:sd/hexerei/willow_half_drawers_4"
+}

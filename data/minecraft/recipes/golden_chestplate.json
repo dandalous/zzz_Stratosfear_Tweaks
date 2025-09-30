@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:leather_chestplate"
+  },
+  "addition": {
+    "tag": "forge:plates/gold"
+  },
+  "result": {
+    "item": "minecraft:golden_chestplate"
+  },
+  "template": {
+    "tag": "forge:slimeballs"
+  }
+}

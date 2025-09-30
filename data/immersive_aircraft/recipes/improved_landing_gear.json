@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SI", "B "],
+  "key": {
+    "B": [
+      {
+        "item": "create:belt_connector"
+      }
+    ],
+    "I": [
+      {
+        "tag": "forge:ingots/iron"
+      }
+    ],
+    "S": [
+      {
+        "tag": "forge:plates/iron"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:improved_landing_gear"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "hexerei:willow_wood"
+  },
+  "result": "hexerei:willow_log"
+}

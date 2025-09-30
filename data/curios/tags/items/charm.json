@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:clock", "required": false },
+        { "id": "#minecraft:compasses", "required": false },
+        { "id": "#supplementaries:altimeters", "required": false },
+        { "id": "exposure:camera", "required": false },
+        { "id": "thinair:safety_lantern", "required": false },
+        { "id": "sereneseasons:calendar", "required": false },
+        { "id": "breezy:gust_gauge", "required": false }
+    ]
+}

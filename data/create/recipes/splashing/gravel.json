@@ -1,0 +1,16 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "alternatives:gravel"
+    }
+  ],
+  "results": [
+    { "chance": 0.66, "item": "minecraft:flint" },
+    { "chance": 0.66, "item": "twigs:pebble" },
+    { "chance": 0.33, "item": "minecraft:seagrass" },
+    { "chance": 0.11, "item": "immersive_weathering:sand_layer_block" },
+    { "chance": 0.11, "item": "minecraft:clay_ball" },
+    { "chance": 0.11, "item": "minecraft:raw_iron" }
+  ]
+}

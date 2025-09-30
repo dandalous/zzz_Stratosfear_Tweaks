@@ -1,0 +1,8 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:warped_slab"
+  },
+  "ingredient_count": 4,
+  "result": "minecraft:warped_trapdoor"
+}

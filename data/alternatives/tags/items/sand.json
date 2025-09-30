@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:sand", "required": false },
+        { "id": "immersive_weathering:grassy_sandy_dirt", "required": false },
+        { "id": "immersive_weathering:sandy_dirt", "required": false }
+    ]
+}

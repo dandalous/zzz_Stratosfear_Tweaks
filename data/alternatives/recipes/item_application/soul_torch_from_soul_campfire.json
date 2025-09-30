@@ -1,0 +1,22 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_campfire",
+      "nbt": "{BlockStateTag:{lit:\"true\"}}"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.95,
+      "item": "minecraft:soul_campfire"
+    },
+    {
+      "item": "minecraft:soul_torch"
+    }
+  ],
+  "show_notification": true
+}

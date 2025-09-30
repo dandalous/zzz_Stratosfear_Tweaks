@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 1,
+    "ingredient": {
+        "tag": "hexerei:mahogany_planks"
+    },
+    "result": "everycomp:sd/hexerei/mahogany_half_drawers_4"
+}

@@ -1,0 +1,25 @@
+{
+  "group": "flag",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "211"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:magenta_wool"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "supplementaries:flag_magenta",
+    "count": 2
+  },
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "flag"
+    }
+  ]
+}

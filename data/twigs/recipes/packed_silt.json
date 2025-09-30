@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "immersive_weathering:silt"
+        },
+        {
+            "tag": "c:wheat"
+        }
+    ],
+    "result": {
+        "item": "twigs:packed_silt"
+    }
+}

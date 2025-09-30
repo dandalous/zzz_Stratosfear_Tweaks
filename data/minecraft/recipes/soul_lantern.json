@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        { "item": "minecraft:soul_torch" },
+        { "item": "delightful:animal_oil_bottle" },
+        { "tag": "forge:plates/iron" }
+    ],
+    "result": {
+        "item": "minecraft:soul_lantern",
+        "count": 4
+    }
+}

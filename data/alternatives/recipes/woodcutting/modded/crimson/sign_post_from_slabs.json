@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient": {
+        "item": "minecraft:crimson_slab"
+    },
+    "ingredient_count": 1,
+    "result": "supplementaries:sign_post_crimson"
+}

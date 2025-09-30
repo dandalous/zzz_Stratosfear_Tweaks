@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 6,
+    "ingredient_count": 2,
+    "ingredient": {
+        "item": "hexerei:witch_hazel_log"
+    },
+    "result": "everycomp:db/hexerei/witch_hazel_palisade"
+}

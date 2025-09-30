@@ -1,0 +1,15 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    [{
+      "item": "minecraft:cobblestone"
+    },{
+      "item": "minecraft:mossy_cobblestone"
+    }]
+  ],
+  "results": [
+    {
+      "item": "minecraft:stone"
+    }
+  ]
+}

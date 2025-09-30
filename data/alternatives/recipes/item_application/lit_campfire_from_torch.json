@@ -1,0 +1,17 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+      {
+        "item": "vinery:stackable_log"
+      },
+    {
+      "item": "minecraft:torch"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:campfire",
+      "nbt": "{BlockStateTag:{lit:\"true\"}}"
+    }
+  ]
+}

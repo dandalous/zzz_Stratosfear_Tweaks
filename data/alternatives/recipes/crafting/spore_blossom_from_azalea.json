@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "tag": "minecraft:flowers/azalea"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "minecraft:spore_blossom"
+    },
+    "show_notification": true
+}

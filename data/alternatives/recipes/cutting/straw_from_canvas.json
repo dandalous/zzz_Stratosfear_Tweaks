@@ -1,0 +1,27 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "farmersdelight:canvas"
+        }
+    ],
+    "result": [
+        {
+            "item": "farmersdelight:straw"
+        },
+        {
+            "chance": 0.25,
+            "count": 2,
+            "item": "farmersdelight:straw"
+        },
+        {
+            "chance": 0.25,
+            "count": 1,
+            "item": "farmersdelight:straw"
+        }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    },
+    "show_notification": true
+}

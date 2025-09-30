@@ -1,0 +1,17 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "alternatives:dirt"
+    }
+  ],
+  "results": [
+    { "chance": 0.99, "item": "twigs:twig" },
+    { "chance": 0.99, "item": "twigs:pebble" },
+    { "chance": 0.66, "item": "minecraft:oak_sapling" },
+    { "chance": 0.66, "item": "minecraft:birch_sapling" },
+    { "chance": 0.66, "item": "minecraft:wheat_seeds" },
+    { "chance": 0.66, "item": "minecraft:grass" },
+    { "chance": 0.33, "item": "minecraft:hanging_roots" }
+  ]
+}

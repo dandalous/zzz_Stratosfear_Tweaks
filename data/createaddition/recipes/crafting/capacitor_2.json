@@ -1,0 +1,110 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "tag": "forge:gems/lapis"
+    },
+    "loops": 1,
+    "results": [
+        {
+            "chance": 120.0,
+            "count": 4,
+            "item": "createaddition:capacitor"
+        },
+        {
+            "chance": 8.0,
+            "item": "create:copper_sheet"
+        },
+        {
+            "chance": 8.0,
+            "item": "createaddition:zinc_sheet"
+        },
+        {
+            "chance": 5.0,
+            "item": "createaddition:electrum_wire"
+        },
+        {
+            "chance": 3.0,
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "chance": 2.0,
+            "item": "create:zinc_nugget"
+        },
+        {
+            "chance": 2.0,
+            "item": "minecraft:copper_nugget"
+        },
+        {
+            "item": "create:transmitter"
+        },
+        {
+            "item": "minecraft:lightning_rod"
+        }
+    ],
+    "sequence": [
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "minecraft:lapis_lazuli"
+                },
+                {
+                    "tag": "forge:plates/copper"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:lapis_lazuli"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "minecraft:lapis_lazuli"
+                },
+                {
+                    "tag": "forge:plates/zinc"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:lapis_lazuli"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "minecraft:lapis_lazuli"
+                },
+                {
+                    "item": "createaddition:electrum_wire"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:lapis_lazuli"
+                }
+            ]
+        },
+        {
+            "type": "createaddition:rolling",
+            "ingredients": [
+                {
+                    "item": "minecraft:lapis_lazuli"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:lapis_lazuli"
+                }
+            ]
+        }
+    ],
+    "transitionalItem": {
+        "item": "minecraft:lapis_lazuli"
+    }
+}

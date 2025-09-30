@@ -1,0 +1,14 @@
+{
+  "type": "bakery:baking_station",
+  "ingredients": [
+    {
+      "item": "createaddition:cake_base"
+    },
+    {
+      "item": "bakery:strawberry_jam"
+    }
+  ],
+  "result": {
+    "item": "bakery:strawberry_cake"
+  }
+}

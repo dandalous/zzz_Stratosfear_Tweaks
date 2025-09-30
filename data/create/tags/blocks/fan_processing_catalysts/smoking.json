@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "decorative_blocks:brazier", "required": false }
+  ]
+}

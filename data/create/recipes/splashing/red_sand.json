@@ -1,0 +1,16 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:red_sand"
+    }
+  ],
+  "results": [
+    { "chance": 0.99, "item": "immersive_weathering:red_sand_layer_block", "count": 4 },
+    { "chance": 0.33, "item": "minecraft:dead_bush" },
+    { "chance": 0.11, "item": "minecraft:bone" },
+    { "chance": 0.11, "item": "minecraft:skeleton_skull" },
+    { "chance": 0.11, "item": "minecraft:redstone" },
+    { "chance": 0.11, "item": "minecraft:raw_gold" }
+  ]
+}

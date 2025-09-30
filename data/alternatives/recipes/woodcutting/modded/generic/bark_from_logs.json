@@ -1,0 +1,9 @@
+{
+  "type": "hexerei:woodcutting",
+  "count": 8,
+  "ingredient_count": 1,
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "result": "farmersdelight:tree_bark"
+}

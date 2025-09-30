@@ -1,0 +1,20 @@
+{
+  "type": "bakery:crafting_bowl",
+  "ingredients": [
+    {
+      "tag": "forge:flour/wheat"
+    },
+    {
+      "item": "bakery:yeast"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:water"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:wheat_dough"
+  }
+}

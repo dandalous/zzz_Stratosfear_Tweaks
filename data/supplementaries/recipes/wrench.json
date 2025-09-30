@@ -1,0 +1,29 @@
+{
+    "conditions": [
+        {
+            "type": "supplementaries:flag",
+            "flag": "wrench"
+        }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PP ",
+        "PG ",
+        " R "
+    ],
+    "key": {
+        "P": {
+            "tag": "forge:plates/copper"
+        },
+        "G": {
+            "item": "create:cogwheel"
+        },
+        "R": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "supplementaries:wrench",
+        "count": 1
+    }
+}

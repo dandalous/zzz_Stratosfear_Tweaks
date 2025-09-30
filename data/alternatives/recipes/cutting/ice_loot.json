@@ -1,0 +1,25 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "tag": "immersive_weathering:ice"
+        }
+    ],
+    "result": [
+        {
+            "item": "minecraft:bone",
+            "chance": 0.25
+        },
+        {
+            "item": "minecraft:gold_nugget",
+            "chance": 0.15
+        },
+        {
+            "item": "minecraft:iron_nugget",
+            "chance": 0.15
+        }
+    ],
+    "tool": {
+        "tag": "forge:tools/pickaxes"
+    }
+}

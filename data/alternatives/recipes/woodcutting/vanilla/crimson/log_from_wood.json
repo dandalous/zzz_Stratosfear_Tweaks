@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:crimson_hyphae"
+  },
+  "result": "minecraft:crimson_stem"
+}

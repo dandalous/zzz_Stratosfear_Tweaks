@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:warped_slab"
+  },
+  "result": "minecraft:warped_button"
+}

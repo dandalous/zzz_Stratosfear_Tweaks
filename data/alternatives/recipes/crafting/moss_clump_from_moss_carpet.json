@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:moss_carpet"
+    }
+  ],
+  "result": {
+    "item": "immersive_weathering:moss_clump"
+  },
+  "show_notification": true
+}

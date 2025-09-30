@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "minecraft:soul_fire_base_blocks"
+    }
+  ],
+  "results": [
+    { "chance": 0.66, "count": 4, "item": "minecraft:quartz" },
+    { "chance": 0.33, "item": "minecraft:bone" },
+    { "chance": 0.33, "item": "minecraft:skeleton_skull" },
+    { "chance": 0.33, "item": "minecraft:rotten_flesh" },
+    { "chance": 0.33, "item": "minecraft:warped_roots" },
+    { "chance": 0.33, "item": "minecraft:crimson_roots" },
+    { "chance": 0.11, "item": "minecraft:nether_wart" },
+    { "chance": 0.11, "item": "minecraft:gunpowder" },
+    { "chance": 0.11, "item": "create:raw_zinc" }
+  ]
+}

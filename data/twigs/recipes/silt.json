@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "immersive_weathering:silt"
+    }
+  ],
+  "result": "twigs:silt",
+  "experience": 0,
+  "cookingtime": 100
+}

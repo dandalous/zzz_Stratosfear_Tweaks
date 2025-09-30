@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 2,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "minecraft:warped_planks"
+    },
+    "result": "handcrafted:warped_dining_bench"
+}

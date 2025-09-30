@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "flag": "faucet",
+      "type": "supplementaries:flag"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "22 ",
+    "   "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "tag": "forge:nuggets/iron"
+    }
+  },
+  "result": {
+    "item": "supplementaries:faucet",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" IS", " WI", "W  "],
+  "key": {
+    "I": { "tag": "forge:ingots/iron" },
+    "S": [
+      {
+        "tag": "forge:string"
+      },
+      {
+        "item": "farmersdelight:straw"
+      }
+    ],
+    "W": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "handcrafted:hammer" }
+}

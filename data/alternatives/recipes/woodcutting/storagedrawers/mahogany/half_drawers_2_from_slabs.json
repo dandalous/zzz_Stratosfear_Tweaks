@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 4,
+    "ingredient": {
+        "item": "hexerei:mahogany_slab"
+    },
+    "result": "everycomp:sd/hexerei/mahogany_half_drawers_2"
+}

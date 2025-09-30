@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_planks"
+  },
+  "result": "mynethersdelight:powdery_pressure_plate"
+}

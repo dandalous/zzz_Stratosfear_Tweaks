@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "soul_nether_stove",
+  "key": {
+    "B": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "C": {
+      "item": "vinery:stackable_log"
+    },
+    "i": {
+      "tag": "forge:ingots/nether_brick"
+    }
+  },
+  "pattern": [
+    "iii",
+    "B B",
+    "BCB"
+  ],
+  "result": {
+    "item": "mynethersdelight:nether_bricks_soul_stove",
+    "nbt": "{BlockStateTag:{lit:\"false\"}}"
+  },
+  "show_notification": true
+}

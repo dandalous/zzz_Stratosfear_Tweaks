@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/andesite_alloy"
+    }
+  ],
+  "result": [
+    {
+      "item": "createdeco:andesite_sheet"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/hammers"
+  }
+}

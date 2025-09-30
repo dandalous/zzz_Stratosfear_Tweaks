@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "vinery:stripped_dark_cherry_wood"
+  },
+  "result": "vinery:stripped_dark_cherry_log"
+}

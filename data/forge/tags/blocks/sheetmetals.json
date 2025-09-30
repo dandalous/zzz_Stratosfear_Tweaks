@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "createdeco:zinc_sheet_metal", "required": false },
+    { "id": "createdeco:industrial_iron_sheet_metal", "required": false },
+    { "id": "createdeco:brass_sheet_metal", "required": false },
+    { "id": "createdeco:andesite_sheet_metal", "required": false },
+    { "id": "createdeco:iron_sheet_metal", "required": false },
+    { "id": "createdeco:copper_sheet_metal", "required": false }
+  ]
+}

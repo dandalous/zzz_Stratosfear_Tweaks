@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "cold_sweat:goat_fur_boots", "required": false },
+        { "id": "hexerei:witch_boots", "required": false },
+        { "id": "vinery:winemaker_boots", "required": false }
+    ]
+}

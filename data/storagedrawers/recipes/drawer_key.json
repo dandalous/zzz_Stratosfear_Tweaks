@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "misc",
+  "count": 1,
+  "ingredient": {
+    "tag": "forge:plates/gold"
+  },
+  "result": "storagedrawers:drawer_key",
+  "show_notification": true
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:leather_boots"
+  },
+  "addition": {
+    "tag": "forge:plates/copper"
+  },
+  "result": {
+    "item": "create:copper_diving_boots"
+  },
+  "template": {
+    "tag": "forge:ingots/andesite_alloy"
+  }
+}

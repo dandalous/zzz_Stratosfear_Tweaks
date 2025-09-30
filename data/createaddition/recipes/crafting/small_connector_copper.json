@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "a": {
+            "tag": "forge:ingots/andesite_alloy"
+        },
+        "r": {
+            "tag": "forge:rods/copper"
+        }
+    },
+    "pattern": [
+        " r ",
+        "ara"
+    ],
+    "result": {
+        "item": "createaddition:connector",
+        "count": 4
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["T", "B", "D"],
+  "key": {
+    "T": {
+      "item": "create:transmitter"
+    },
+    "B": {
+      "item": "minecraft:beehive"
+    },
+    "D": {
+      "item": "create:depot"
+    }
+  },
+  "result": {
+    "item": "create_mobile_packages:bee_port",
+    "count": 1
+  }
+}

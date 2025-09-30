@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "minecraft:oak_planks"
+    },
+    "result": "vinery:oak_wine_rack_small"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 6,
+    "ingredient_count": 2,
+    "ingredient": {
+        "item": "vinery:dark_cherry_log"
+    },
+    "result": "everycomp:db/vinery/dark_cherry_palisade"
+}

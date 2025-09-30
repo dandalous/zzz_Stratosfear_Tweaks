@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "drakkar",
+  "pattern": [
+    "  f  ",
+    " lsl ",
+    "fwfwf",
+    " cbc "
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "b": {
+      "item": "minecraft:acacia_boat"
+    },
+    "c": {
+      "item": "minecraft:acacia_chest_boat"
+    },
+    "f": {
+      "item": "minecraft:acacia_fence"
+    },
+    "w": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "result": {
+    "item": "smallships:acacia_drakkar"
+  }
+}

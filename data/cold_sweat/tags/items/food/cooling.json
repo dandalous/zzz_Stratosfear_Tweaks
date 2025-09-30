@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "farmersdelight:melon_popsicle", "required": false },
+        { "id": "delightful:matcha_milkshake", "required": false },
+        { "id": "delightful:salmonberry_milkshake", "required": false },
+        { "id": "delightful:matcha_ice_cream", "required": false },
+        { "id": "delightful:salmonberry_ice_cream", "required": false },
+        { "id": "delightful:cantaloupe_popsicle", "required": false },
+        { "id": "delightful:berry_matcha_latte", "required": false }
+    ]
+}

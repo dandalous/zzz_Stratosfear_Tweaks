@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:warped_hyphae"
+  },
+  "result": "minecraft:warped_stem"
+}

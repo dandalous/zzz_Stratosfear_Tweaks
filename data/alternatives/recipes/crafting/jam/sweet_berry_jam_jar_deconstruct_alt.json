@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "bakery:jar"
+    },
+    "X": {
+      "item": "vintagedelight:sweet_berry_mason_jar"
+    }
+  },
+  "pattern": [
+    "X#",
+    "##"
+  ],
+  "result": {
+    "item": "bakery:sweetberry_jam",
+    "count": 3
+  }
+}

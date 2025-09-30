@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "end_stone_bricks_kitchen",
+  "pattern": ["III", "BBB", "BCB"],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "B": {
+      "item": "minecraft:end_stone_bricks"
+    },
+    "C": {
+      "item": "vinery:stackable_log"
+    }
+  },
+  "result": {
+    "item": "bakery:end_stove",
+    "nbt": "{BlockStateTag:{lit:\"false\"}}"
+  }
+}

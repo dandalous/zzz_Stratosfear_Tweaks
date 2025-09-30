@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "#immersive_weathering:bark", "required": false },
+        { "id": "#immersive_weathering:scales", "required": false }
+    ]
+}

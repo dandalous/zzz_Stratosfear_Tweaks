@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "pipe_connector:pipe_connector", "required": false },
+        { "id": "prettypipes:wrench", "required": false }
+    ]
+}

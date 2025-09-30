@@ -1,0 +1,16 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "alternatives:rooted_dirt"
+    }
+  ],
+  "results": [
+    { "chance": 0.99, "item": "minecraft:hanging_roots" },
+    { "chance": 0.66, "item": "minecraft:brown_mushroom" },
+    { "chance": 0.66, "item": "minecraft:red_mushroom" },
+    { "chance": 0.33, "item": "vintagedelight:peanut" },
+    { "chance": 0.33, "item": "farmersrespite:tea_seeds" },
+    { "chance": 0.33, "item": "vintagedelight:oat_seeds" }
+  ]
+}

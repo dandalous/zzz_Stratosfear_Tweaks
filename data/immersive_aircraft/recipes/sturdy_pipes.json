@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IPI"
+  ],
+  "key": {
+    "P": [
+      {
+        "item": "create:fluid_pipe"
+      }
+    ],
+    "I": [
+      {
+        "tag": "forge:plates/copper"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:sturdy_pipes"
+  }
+}

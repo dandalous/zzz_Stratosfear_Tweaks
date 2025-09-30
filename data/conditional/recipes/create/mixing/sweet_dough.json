@@ -1,0 +1,33 @@
+{
+  "type": "doapi:conditional",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "recipe": {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "forge:flour/wheat"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:milk"
+      }
+    ],
+    "results": [
+      {
+      "count": 3,
+        "item": "bakery:sweet_dough"
+      }
+    ]
+  }
+}

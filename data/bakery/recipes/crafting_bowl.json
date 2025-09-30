@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S",
+    "BW"
+  ],
+  "key": {
+    "W": {
+      "item": "create:whisk"
+    },
+    "B": [{
+      "item": "minecraft:bowl"
+    },{
+      "tag": "handcrafted:bowls"
+    }],
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bakery:crafting_bowl",
+    "count": 1
+  }
+}

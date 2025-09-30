@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient": {
+        "item": "mynethersdelight:powdery_slab"
+    },
+    "ingredient_count": 1,
+    "result": "supplementaries:mynethersdelight/sign_post_powdery"
+}

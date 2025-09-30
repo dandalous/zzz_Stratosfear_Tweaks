@@ -1,0 +1,13 @@
+{
+	"type": "createaddition:charging",
+	"input": {
+		"item": "minecraft:gold_nugget",
+		"count": 1
+	},
+	"result": {
+		"item": "createaddition:electrum_nugget",
+		"count": 1
+	},
+	"energy": 100,
+	"maxChargeRate": 200
+}

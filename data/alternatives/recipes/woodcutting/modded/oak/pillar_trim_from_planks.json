@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 4,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "minecraft:oak_planks"
+    },
+    "result": "handcrafted:oak_pillar_trim"
+}

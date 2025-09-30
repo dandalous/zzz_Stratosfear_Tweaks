@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BPB",
+    " B "
+  ],
+  "key": {
+    "B": [
+      {
+        "tag": "forge:plates/brass"
+      }
+    ],
+    "P": [
+      {
+        "item": "create:propeller"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:enhanced_propeller"
+  }
+}

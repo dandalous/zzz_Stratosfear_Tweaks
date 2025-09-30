@@ -1,0 +1,30 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "galley",
+  "pattern": [
+    "  f  ",
+    " lsl ",
+    "fwswf",
+    " bbb "
+  ],
+  "key": {
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "b": {
+      "item": "minecraft:bamboo_raft"
+    },
+    "f": {
+      "item": "minecraft:bamboo_fence"
+    },
+    "w": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "result": {
+    "item": "smallships:bamboo_galley"
+  }
+}

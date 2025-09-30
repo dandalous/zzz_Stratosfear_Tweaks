@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 2,
+    "ingredient_count": 1,
+    "ingredient": {
+        "tag": "hexerei:mahogany_planks"
+    },
+    "result": "everycomp:hc/hexerei/mahogany_dining_bench"
+}

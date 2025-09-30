@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "misc",
+  "ingredient": {
+      "tag": "forge:plates/iron"
+  },
+  "count": 1,
+  "result": "create:propeller",
+  "show_notification": true
+}

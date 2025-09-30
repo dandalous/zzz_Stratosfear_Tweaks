@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 4,
+    "ingredient_count": 1,
+    "ingredient": {
+        "tag": "hexerei:willow_planks"
+    },
+    "result": "everycomp:hc/hexerei/willow_corner_trim"
+}

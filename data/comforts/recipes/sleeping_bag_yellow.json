@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "comforts:sleeping_bag",
+  "pattern": [
+    "rr",
+    "aa"
+  ],
+  "key": {
+    "r": {
+      "tag": "forge:rope"
+    },
+    "a": {
+      "item": "minecraft:yellow_wool"
+    }
+  },
+  "result": {
+    "item": "comforts:sleeping_bag_yellow"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["###", "#X#", "###"],
+  "key": {
+    "X": { "tag": "forge:plates/andesite_alloy" },
+    "#": { "item": "minecraft:stick" }
+  },
+  "result": { "count": 4, "item": "storagedrawers:upgrade_template" }
+}

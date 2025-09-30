@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "heated",
+    "ingredients": [
+        {
+            "item": "minecraft:charcoal"
+        },
+        {
+            "item": "minecraft:iron_block"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:industrial_iron_block"
+        }
+    ]
+}

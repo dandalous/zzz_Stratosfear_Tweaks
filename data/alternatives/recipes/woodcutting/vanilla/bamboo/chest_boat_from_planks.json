@@ -1,0 +1,8 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:bamboo_planks"
+  },
+  "ingredient_count": 9,
+  "result": "minecraft:bamboo_chest_raft"
+}

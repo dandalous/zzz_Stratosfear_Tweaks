@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "brigg",
+  "pattern": [
+    "   f ",
+    "lslsl",
+    "ss ss",
+    "ff ff",
+    " bbb "
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "b": {
+      "item": "minecraft:acacia_chest_boat"
+    },
+    "f": {
+      "item": "minecraft:acacia_fence"
+    }
+  },
+  "result": {
+    "item": "smallships:acacia_brigg"
+  }
+}

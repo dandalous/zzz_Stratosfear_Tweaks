@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "cog",
+  "pattern": [
+    "  f  ",
+    " lsl ",
+    "f f f",
+    " bbb "
+  ],
+  "key": {
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "b": {
+      "item": "minecraft:bamboo_raft"
+    },
+    "f": {
+      "item": "minecraft:bamboo_fence"
+    }
+  },
+  "result": {
+    "item": "smallships:bamboo_cog"
+  }
+}

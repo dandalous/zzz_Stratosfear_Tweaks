@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "minecraft:stripped_dark_oak_log"
+    },
+    "result": "decorative_blocks:dark_oak_beam"
+}

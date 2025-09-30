@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "hexerei:animal_fat", "required": false },
+        { "id": "delightful:animal_fat", "required": false },
+        { "id": "immersive_weathering:tallow", "required": false },
+        { "id": "minecraft:honeycomb", "required": false }
+    ]
+}

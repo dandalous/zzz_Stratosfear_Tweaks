@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 6,
+    "ingredient_count": 1,
+    "ingredient": {
+        "tag": "hexerei:mahogany_planks"
+    },
+    "result": "everycomp:db/hexerei/mahogany_seat"
+}

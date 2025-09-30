@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "hexerei:mahogany_sapling", "required": false },
+    { "id": "hexerei:witch_hazel_sapling", "required": false }
+  ]
+}

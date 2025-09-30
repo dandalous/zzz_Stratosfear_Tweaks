@@ -1,0 +1,18 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "alternatives:loam"
+    }
+  ],
+  "results": [
+    { "chance": 0.66, "item": "minecraft:clay_ball", "count": 4 },
+    { "chance": 0.66, "item": "minecraft:mud" },
+    { "chance": 0.66, "item": "minecraft:dirt" },
+    { "chance": 0.66, "item": "minecraft:sand" },
+    { "chance": 0.33, "item": "minecraft:pumpkin_seeds" },
+    { "chance": 0.33, "item": "minecraft:melon_seeds" },
+    { "chance": 0.33, "item": "minecraft:sweet_berries" },
+    { "chance": 0.33, "item": "delightful:salmonberry_pips" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": [
+        {
+            "item": "supplementaries:gravel_bricks"
+        }
+    ],
+    "result": "twigs:gravel_bricks",
+    "experience": 0,
+    "cookingtime": 100
+}

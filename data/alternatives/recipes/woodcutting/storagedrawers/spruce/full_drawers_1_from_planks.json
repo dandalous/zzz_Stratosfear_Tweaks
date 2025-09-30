@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 8,
+    "ingredient": {
+        "item": "minecraft:spruce_planks"
+    },
+    "result": "storagedrawers:spruce_full_drawers_1"
+}

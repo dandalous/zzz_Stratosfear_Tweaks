@@ -1,0 +1,27 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    [{
+      "item": "minecraft:cobblestone"
+    },{
+      "item": "minecraft:mossy_cobblestone"
+    }],
+    {
+      "item": "twigs:pebble"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:air"
+    },
+    {
+      "count": 4,
+      "item": "twigs:pebble"
+    },
+    {
+      "chance": 0.99,
+      "item": "twigs:pebble"
+    }
+  ],
+  "show_notification": true
+}

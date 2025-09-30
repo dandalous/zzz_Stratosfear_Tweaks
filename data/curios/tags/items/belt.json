@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:spyglass", "required": false },
+        { "id": "#forge:tools", "required": false },
+        { "id": "#create:toolboxes", "required": false }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CT",
+    " R"
+  ],
+  "key": {
+    "T": [
+      {
+        "item": "minecraft:spyglass"
+      }
+    ],
+    "R": [
+      {
+        "item": "minecraft:lightning_rod"
+      }
+    ],
+    "C": [
+      {
+        "item": "minecraft:compass"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:telescope"
+  }
+}

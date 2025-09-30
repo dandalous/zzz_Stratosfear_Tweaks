@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:packed_ice", "required": false },
+        { "id": "minecraft:blue_ice", "required": false },
+        { "id": "immersive_weathering:grassy_permafrost", "required": false },
+        { "id": "immersive_weathering:permafrost", "required": false }
+    ]
+}

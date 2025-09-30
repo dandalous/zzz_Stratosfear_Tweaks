@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 6,
+    "ingredient_count": 1,
+    "ingredient": {
+        "tag": "hexerei:willow_planks"
+    },
+    "result": "everycomp:db/hexerei/willow_seat"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["S", "C"],
+  "key": {
+    "S": {
+      "tag": "forge:string"
+    },
+    "C": [
+      {
+        "item": "farmersdelight:canvas"
+      },
+      {
+        "item": "minecraft:leather"
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:bundle"
+  },
+  "show_notification": true
+}

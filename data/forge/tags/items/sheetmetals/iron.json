@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "createdeco:iron_sheet_metal", "required": false }
+  ]
+}

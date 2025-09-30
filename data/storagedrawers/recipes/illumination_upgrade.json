@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "misc",
+  "count": 1,
+  "ingredient": {
+    "item": "storagedrawers:upgrade_template"
+  },
+  "result": "storagedrawers:illumination_upgrade",
+  "show_notification": true
+}

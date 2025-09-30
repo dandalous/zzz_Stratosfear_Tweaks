@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "#handcrafted:bowls", "required": false },
+        { "id": "#handcrafted:plates", "required": false }
+    ]
+}

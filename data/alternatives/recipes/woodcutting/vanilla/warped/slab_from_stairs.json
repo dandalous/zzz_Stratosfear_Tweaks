@@ -1,0 +1,9 @@
+{
+  "type": "hexerei:woodcutting",
+  "count": 3,
+  "ingredient": {
+    "item": "minecraft:warped_stairs"
+  },
+  "ingredient_count": 2,
+  "result": "minecraft:warped_slab"
+}

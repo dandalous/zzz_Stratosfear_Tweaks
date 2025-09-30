@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "cold_sweat:soul_sprout", "required": false },
+        { "id": "mynethersdelight:propelpearl", "required": false },
+        { "id": "mynethersdelight:plate_of_stuffed_hoglin_snout", "required": false },
+        { "id": "mynethersdelight:plate_of_stuffed_hoglin_ham", "required": false },
+        { "id": "mynethersdelight:plate_of_stuffed_hoglin_roast", "required": false },
+        { "id": "mynethersdelight:bullet_pepper", "required": false },
+        { "id": "delightful:stuffed_cantaloupe", "required": false },
+        { "id": "delightful:matcha", "required": false },
+        { "id": "delightful:baklava_slice", "required": false },
+        { "id": "rainbowreef:pipefish_sushi", "required": false },
+        { "id": "bakery:yeast", "required": false },
+        { "id": "bakery:chocolate_jam", "required": false },
+        { "id": "bakery:bundt_cake_slice", "required": false },
+        { "id": "bakery:chocolate_cake_slice", "required": false },
+        { "id": "bakery:chocolate_gateau_slice", "required": false },
+        { "id": "bakery:chocolate_tart_slice", "required": false },
+        { "id": "bakery:glowberry_pie_slice", "required": false }
+    ]
+}

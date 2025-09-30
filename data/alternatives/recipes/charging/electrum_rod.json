@@ -1,0 +1,13 @@
+{
+	"type": "createaddition:charging",
+	"input": {
+		"tag": "forge:rods/gold",
+		"count": 1
+	},
+	"result": {
+		"item": "createaddition:electrum_rod",
+		"count": 1
+	},
+	"energy": 250,
+	"maxChargeRate": 200
+}

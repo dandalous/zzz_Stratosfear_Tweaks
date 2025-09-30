@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{ "item": "storagedrawers:controller_slave" }],
+  "result": { "item": "storagedrawers:controller" }
+}

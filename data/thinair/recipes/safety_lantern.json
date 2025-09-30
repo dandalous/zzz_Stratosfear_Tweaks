@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:redstone_torch" },
+    { "item": "delightful:animal_oil_bottle" },
+    { "tag": "forge:plates/iron" }
+  ],
+  "result": {
+    "item": "thinair:safety_lantern",
+    "count": 4
+  }
+}

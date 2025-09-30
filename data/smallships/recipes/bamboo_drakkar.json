@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "drakkar",
+  "pattern": [
+    "  f  ",
+    " lsl ",
+    "fwfwf",
+    " cbc "
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "b": {
+      "item": "minecraft:bamboo_raft"
+    },
+    "c": {
+      "item": "minecraft:bamboo_chest_raft"
+    },
+    "f": {
+      "item": "minecraft:bamboo_fence"
+    },
+    "w": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "result": {
+    "item": "smallships:bamboo_drakkar"
+  }
+}

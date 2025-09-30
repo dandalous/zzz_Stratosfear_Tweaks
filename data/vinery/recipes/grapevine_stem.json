@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "tag": "forge:stripped_logs"
+        }
+    ],
+    "result": [
+        {
+            "item": "vinery:grapevine_stem",
+            "count": 4
+        }
+    ],
+    "tool": {
+        "tag": "forge:tools/axes"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 2,
+    "ingredient": {
+        "tag": "hexerei:mahogany_planks"
+    },
+    "ingredient_count": 1,
+    "result": "supplementaries:hexerei/sign_post_mahogany"
+}

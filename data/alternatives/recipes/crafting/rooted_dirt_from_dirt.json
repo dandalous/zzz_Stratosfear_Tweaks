@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:hanging_roots"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "minecraft:rooted_dirt"
+    },
+    "show_notification": true
+}

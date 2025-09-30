@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 6,
+    "ingredient": {
+        "tag": "minecraft:planks"
+    },
+    "result": "minecraft:chiseled_bookshelf"
+}

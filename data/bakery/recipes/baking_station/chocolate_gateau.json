@@ -1,0 +1,19 @@
+{
+  "type": "bakery:baking_station",
+  "ingredients": [
+    {
+      "item": "createaddition:cake_base"
+    },
+    [
+      {
+        "item": "bakery:chocolate_truffle"
+      },
+      {
+        "item": "create:bar_of_chocolate"
+      }
+    ]
+  ],
+  "result": {
+    "item": "bakery:chocolate_gateau"
+  }
+}

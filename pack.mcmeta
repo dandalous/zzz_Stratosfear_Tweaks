@@ -1,0 +1,9 @@
+{
+  "features": {
+    "enabled": ["minecraft:bundle"]
+  },
+  "pack": {
+    "pack_format": 15,
+    "description": "Tweaks for Stratosfear"
+  }
+}

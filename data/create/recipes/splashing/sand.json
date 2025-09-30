@@ -1,0 +1,16 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "alternatives:sand"
+    }
+  ],
+  "results": [
+    { "chance": 0.99, "item": "immersive_weathering:sand_layer_block", "count": 4 },
+    { "chance": 0.66, "item": "minecraft:clay_ball" },
+    { "chance": 0.33, "item": "minecraft:kelp" },
+    { "chance": 0.33, "item": "supplementaries:flax_seeds" },
+    { "chance": 0.11, "item": "minecraft:sugar_cane" },
+    { "chance": 0.11, "item": "naturalist:snail_shell" }
+  ]
+}

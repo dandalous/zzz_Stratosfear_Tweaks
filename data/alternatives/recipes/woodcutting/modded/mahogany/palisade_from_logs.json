@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 6,
+    "ingredient_count": 2,
+    "ingredient": {
+        "item": "hexerei:mahogany_log"
+    },
+    "result": "everycomp:db/hexerei/mahogany_palisade"
+}

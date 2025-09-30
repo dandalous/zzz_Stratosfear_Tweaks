@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:wheat", "required": false },
+    { "id": "hexerei:willow_sapling", "required": false },
+    { "id": "hexerei:mahogany_sapling", "required": false }
+  ]
+}

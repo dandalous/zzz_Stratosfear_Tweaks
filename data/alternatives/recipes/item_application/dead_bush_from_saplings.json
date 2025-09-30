@@ -1,0 +1,17 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "tag": "minecraft:saplings"
+    },
+    {
+      "tag": "forge:salt"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:dead_bush"
+    }
+  ],
+  "show_notification": true
+}

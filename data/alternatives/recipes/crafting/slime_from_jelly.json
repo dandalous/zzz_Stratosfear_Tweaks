@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rainbowreef:glob_of_jelly"
+    },
+    {
+      "tag": "forge:dyes/lime"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:slime_ball"
+  },
+  "show_notification": true
+}

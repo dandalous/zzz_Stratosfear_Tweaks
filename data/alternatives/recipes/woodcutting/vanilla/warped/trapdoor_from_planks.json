@@ -1,0 +1,8 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:warped_planks"
+  },
+  "ingredient_count": 2,
+  "result": "minecraft:warped_trapdoor"
+}

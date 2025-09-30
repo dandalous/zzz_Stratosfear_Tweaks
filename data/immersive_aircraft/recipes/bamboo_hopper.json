@@ -1,0 +1,46 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "   S ",
+    "SSSHP",
+    "SP_EG",
+    "SSSHP",
+    "   S "
+  ],
+  "key": {
+    "H": [
+      {
+        "item": "immersive_aircraft:hull"
+      }
+    ],
+    "E": [
+      {
+        "item": "immersive_aircraft:engine"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "S": [
+      {
+        "item": "minecraft:stripped_bamboo_block"
+      }
+    ],
+    "G": [
+      {
+        "tag": "forge:glass"
+      }
+    ],
+    "_": [
+      {
+        "tag": "create:seats"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:bamboo_hopper"
+  },
+  "acceptMirrored": true
+}

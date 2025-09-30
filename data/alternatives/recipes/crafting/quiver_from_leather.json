@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["RL", "LH"],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "R": {
+      "tag": "forge:rope"
+    }
+  },
+  "result": {
+    "item": "supplementaries:quiver"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 6,
+    "ingredient_count": 2,
+    "ingredient": {
+        "item": "mynethersdelight:powdery_block"
+    },
+    "result": "everycomp:db/mynethersdelight/powdery_palisade"
+}

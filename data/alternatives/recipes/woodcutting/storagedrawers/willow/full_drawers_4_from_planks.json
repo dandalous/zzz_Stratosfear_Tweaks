@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 2,
+    "ingredient": {
+        "tag": "hexerei:willow_planks"
+    },
+    "result": "everycomp:sd/hexerei/willow_full_drawers_4"
+}

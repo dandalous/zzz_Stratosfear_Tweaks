@@ -1,0 +1,9 @@
+{
+  "type": "hexerei:woodcutting",
+  "count": 3,
+  "ingredient": {
+    "item": "vinery:dark_cherry_stairs"
+  },
+  "ingredient_count": 2,
+  "result": "vinery:dark_cherry_slab"
+}

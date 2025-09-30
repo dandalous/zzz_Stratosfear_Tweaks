@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "vinery:apple_wood"
+  },
+  "result": "minecraft:stripped_oak_wood"
+}

@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:carrots",
+    "minecraft:beetroots",
+    {
+      "id": "farmersdelight:rice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbages",
+      "required": false
+    },
+    {
+      "id": "vintagedelight:oat_crop",
+      "required": false
+    },
+    {
+      "id": "vintagedelight:peanut_crop",
+      "required": false
+    },
+    {
+      "id": "vintagedelight:cucumber_crop",
+      "required": false
+    },
+    {
+      "id": "vintagedelight:ghost_pepper_crop",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "farmersdelight:cooked_rice", "required": false },
+    { "id": "bakery:sweet_dough", "required": false },
+    { "id": "bakery:cake_dough", "required": false },
+    { "id": "bakery:chocolate_jam", "required": false },
+    { "id": "bakery:strawberry_cake_slice", "required": false },
+    { "id": "bakery:sweetberry_cake_slice", "required": false },
+    { "id": "bakery:chocolate_cake_slice", "required": false },
+    { "id": "bakery:chocolate_gateau_slice", "required": false },
+    { "id": "bakery:linzer_tart_slice", "required": false },
+    { "id": "bakery:apple_pie_slice", "required": false },
+    { "id": "bakery:glowberry_pie_slice", "required": false },
+    { "id": "bakery:chocolate_tart_slice", "required": false },
+    { "id": "delightful:baklava_slice", "required": false },
+    { "id": "rainbowreef:angelfish_cake", "required": false }
+  ]
+}

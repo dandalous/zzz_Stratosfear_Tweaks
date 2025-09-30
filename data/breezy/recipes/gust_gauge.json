@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " c ",
+        "cCc",
+        " c "
+    ],
+    "key": {
+        "c": {
+            "tag": "forge:ingots/brass"
+        },
+        "C": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "breezy:gust_gauge",
+        "count": 1
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:gravel", "required": false },
+        { "id": "supplementaries:gravel_bricks", "required": false }
+    ]
+}

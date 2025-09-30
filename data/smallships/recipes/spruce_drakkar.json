@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "drakkar",
+  "pattern": [
+    "  f  ",
+    " lsl ",
+    "fwfwf",
+    " cbc "
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "b": {
+      "item": "minecraft:spruce_boat"
+    },
+    "c": {
+      "item": "minecraft:spruce_chest_boat"
+    },
+    "f": {
+      "item": "minecraft:spruce_fence"
+    },
+    "w": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "result": {
+    "item": "smallships:spruce_drakkar"
+  }
+}

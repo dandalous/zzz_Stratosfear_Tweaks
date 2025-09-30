@@ -1,0 +1,28 @@
+{
+	"replace": false,
+	"values": [
+		{ "id": "vinery:savanna_grapes_red", "required": false },
+		{ "id": "vinery:savanna_grapes_white", "required": false },
+		{ "id": "vinery:taiga_grapes_red", "required": false },
+		{ "id": "vinery:taiga_grapes_white", "required": false },
+		{ "id": "vinery:jungle_grapes_red", "required": false },
+		{ "id": "vinery:jungle_grapes_white", "required": false },
+		{ "id": "vinery:red_grape", "required": false },
+		{ "id": "vinery:white_grape", "required": false },
+		{ "id": "vinery:cherry", "required": false },
+		{ "id": "nethervinery:warped_grape", "required": false },
+		{ "id": "nethervinery:crimson_grape", "required": false },
+		{ "id": "delightful:stuffed_cantaloupe", "required": false },
+		{ "id": "bakery:strawberry", "required": false },
+		{ "id": "bakery:strawberry_jam", "required": false },
+		{ "id": "bakery:sweetberry_jam", "required": false },
+		{ "id": "bakery:glowberry_jam", "required": false },
+		{ "id": "bakery:apple_jam", "required": false },
+		{ "id": "bakery:strawberry_cake_slice", "required": false },
+		{ "id": "bakery:sweetberry_cake_slice", "required": false },
+		{ "id": "bakery:linzer_tart_slice", "required": false },
+		{ "id": "bakery:apple_pie_slice", "required": false },
+		{ "id": "bakery:glowberry_pie_slice", "required": false },
+		{ "id": "bakery:pudding_slice", "required": false }
+	]
+}

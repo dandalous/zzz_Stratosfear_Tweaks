@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "hexerei:book_of_shadows", "required": false },
+        { "id": "ae2:guide", "required": false }
+    ]
+}

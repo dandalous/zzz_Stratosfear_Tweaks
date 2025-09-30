@@ -1,0 +1,9 @@
+{
+  "type": "hexerei:woodcutting",
+  "count": 3,
+  "ingredient": {
+    "item": "mynethersdelight:powdery_stairs"
+  },
+  "ingredient_count": 2,
+  "result": "mynethersdelight:powdery_slab"
+}

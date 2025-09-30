@@ -1,0 +1,36 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:melon_stem",
+    "minecraft:pumpkin_stem",
+    "minecraft:sweet_berry_bush",
+    {
+      "id": "farmersdelight:budding_tomatoes",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomatoes",
+      "required": false
+    },
+    {
+      "id": "vintagedelight:oat_crop",
+      "required": false
+    },
+    {
+      "id": "vintagedelight:peanut_crop",
+      "required": false
+    },
+    {
+      "id": "vintagedelight:gearo_berry_bush",
+      "required": false
+    },
+    {
+      "id": "bakery:strawberry_crop",
+      "required": false
+    },
+    {
+      "id": "delightful:salmonberry_bush",
+      "required": false
+    }
+  ]
+}

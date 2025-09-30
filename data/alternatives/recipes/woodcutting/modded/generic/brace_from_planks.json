@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 4,
+    "ingredient_count": 1,
+    "ingredient": {
+        "tag": "minecraft:planks"
+    },
+    "result": "supplementaries:timber_brace"
+}

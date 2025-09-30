@@ -1,0 +1,33 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:torch", "required": false },
+        { "id": "minecraft:lantern", "required": false },
+        { "id": "minecraft:soul_torch", "required": false },
+        { "id": "minecraft:soul_lantern", "required": false },
+        { "id": "minecraft:flint_and_steel", "required": false },
+        { "id": "minecraft:bundle", "required": false },
+        { "id": "naturalist:bug_net", "required": false },
+        { "id": "#thinair:air_refiller", "required": false },
+        { "id": "cold_sweat:waterskin", "required": false },
+        { "id": "cold_sweat:filled_waterskin", "required": false },
+        { "id": "#forge:buckets", "required": false },
+        { "id": "#forge:shears", "required": false },
+        { "id": "#create:toolboxes", "required": false },
+        { "id": "create:super_glue", "required": false },
+        { "id": "create:linked_controller", "required": false },
+        { "id": "railways:remote_lens", "required": false },
+        { "id": "handcrafted:hammer", "required": false },
+        { "id": "exposure:camera", "required": false },
+        { "id": "hexerei:warhammer", "required": false },
+        { "id": "functionalstorage:linking_tool", "required": false },
+        { "id": "functionalstorage:configuration_tool", "required": false },
+        { "id": "#supplementaries:keys", "required": false },
+        { "id": "ae2:entropy_manipulator", "required": false },
+        { "id": "ae2:charged_staff", "required": false },
+        { "id": "ae2:color_applicator", "required": false },
+        { "id": "ae2:matter_cannon", "required": false },
+        { "id": "ae2:memory_card", "required": false },
+        { "id": "ae2:wireless_terminal", "required": false }
+    ]
+}

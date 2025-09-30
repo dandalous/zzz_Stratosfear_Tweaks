@@ -1,0 +1,19 @@
+{
+  "type": "bakery:baking_station",
+  "ingredients": [
+    {
+      "item": "bakery:cake_dough"
+    },
+    [
+      {
+        "item": "bakery:sweetberry_jam"
+      },
+      {
+        "item": "vintagedelight:sweet_berry_jam_bottle"
+      }
+    ]
+  ],
+  "result": {
+    "item": "bakery:sweetberry_glazed_cookie"
+  }
+}

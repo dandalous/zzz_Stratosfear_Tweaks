@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 2,
+    "ingredient": {
+        "item": "vinery:dark_cherry_planks"
+    },
+    "ingredient_count": 1,
+    "result": "supplementaries:vinery/sign_post_dark_cherry"
+}

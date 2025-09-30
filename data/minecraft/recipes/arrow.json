@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "equipment",
+	"ingredients": [
+		{"item": "minecraft:flint"},
+		{"item": "minecraft:stick"},
+		{"item": "minecraft:feather"}
+	],
+	"result": {
+		"item": "minecraft:arrow",
+		"count": 4
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" D ", " P ", " C "],
+  "key": {
+    "D": [
+      {
+        "item": "create:potato_cannon"
+      }
+    ],
+    "P": [
+      {
+        "item": "create:precision_mechanism"
+      }
+    ],
+    "C": [
+      {
+        "tag": "forge:ingots/copper"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:rotary_cannon"
+  }
+}

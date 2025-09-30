@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [{ "item": "minecraft:amethyst_shard" }, { "tag": "forge:ingots/copper" }, { "tag": "forge:ingots/copper" }],
+  "result": {
+    "item": "minecraft:spyglass",
+    "count": 1
+  }
+}

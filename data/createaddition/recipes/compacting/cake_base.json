@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "bakery:cake_dough"
+        }
+    ],
+    "results": [
+        {
+            "item": "createaddition:cake_base"
+        }
+    ]
+}

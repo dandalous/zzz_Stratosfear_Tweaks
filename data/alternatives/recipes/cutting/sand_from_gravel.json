@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "result": [
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/hammers"
+  }
+}

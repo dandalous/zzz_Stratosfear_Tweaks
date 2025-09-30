@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "handcrafted:hammer", "required": false},
+    {"id": "hexerei:warhammer", "required": false}
+  ]
+}

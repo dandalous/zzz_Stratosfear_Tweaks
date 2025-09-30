@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "vinery:apple_wood"
+  },
+  "result": "vinery:apple_log"
+}

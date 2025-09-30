@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "result": [
+    {
+      "item": "create:golden_sheet"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/hammers"
+  }
+}

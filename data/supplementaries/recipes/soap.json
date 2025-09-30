@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            {
+                "tag": "forge:water"
+            },
+            {
+                "count": 1,
+                "type": "forge:nbt",
+                "item": "minecraft:potion",
+                "nbt": "{Potion:\"minecraft:water\"}"
+            }
+        ],
+        {
+            "tag": "forge:ash"
+        },
+        {
+            "tag": "forge:wax"
+        }
+    ],
+    "result": {
+        "item": "supplementaries:soap",
+        "count": 6
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:coarse_dirt", "required": false },
+        { "id": "twigs:rocky_dirt", "required": false },
+        { "id": "decorative_blocks:rocky_dirt", "required": false }
+    ]
+}

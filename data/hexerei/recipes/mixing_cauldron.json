@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S S",
+        "SGS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "tag": "forge:ingots/industrial_iron"
+        },
+        "G": {
+            "tag": "forge:ingots/gold"
+        }
+    },
+    "result": {
+        "item": "hexerei:mixing_cauldron"
+    }
+}

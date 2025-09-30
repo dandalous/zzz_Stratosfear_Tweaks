@@ -1,0 +1,33 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "minecraft:lava"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:andesite"
+    },
+    [{ "tag": "forge:dusts/iron" }, { "tag": "forge:dusts/zinc" }],
+    [{ "tag": "forge:dusts/iron" }, { "tag": "forge:dusts/zinc" }],
+    [{ "tag": "forge:dusts/iron" }, { "tag": "forge:dusts/zinc" }],
+    [{ "tag": "forge:dusts/iron" }, { "tag": "forge:dusts/zinc" }]
+  ],
+  "output": {
+    "count": 36,
+    "item": "create:andesite_alloy"
+  },
+  "liquidOutput": {
+    "fluid": "minecraft:lava"
+  },
+  "fluidLevelsConsumed": 1000,
+  "heatRequirement": "heated"
+}

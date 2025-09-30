@@ -1,0 +1,9 @@
+{
+  "type": "hexerei:woodcutting",
+  "count": 4,
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "ingredient_count": 1,
+  "result": "bakery:tray"
+}

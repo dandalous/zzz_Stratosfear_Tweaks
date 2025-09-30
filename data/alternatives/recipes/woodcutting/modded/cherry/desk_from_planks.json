@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "minecraft:cherry_planks"
+    },
+    "result": "handcrafted:cherry_desk"
+}

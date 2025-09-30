@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PRP",
+        "CBC",
+        "PWP"
+    ],
+    "key":
+    {
+        "R":
+        {
+            "item": "createaddition:copper_spool"
+        },
+        "B":
+        {
+            "item": "create:brass_casing"
+        },
+        "C":
+        {
+            "item": "createaddition:capacitor"
+        },
+        "W":
+        {
+            "item": "create:electron_tube"
+        },
+        "P":
+        {
+            "tag": "forge:plates/brass"
+        }
+    },
+    "result": {
+        "item": "createaddition:modular_accumulator",
+        "count": 1
+    }
+}

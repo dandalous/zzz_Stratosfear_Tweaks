@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["iPi", "ici", "iPi"],
+  "key": {
+    "i": [
+      {
+        "item": "farmersdelight:canvas"
+      },
+      {
+        "item": "minecraft:leather"
+      }
+    ],
+    "P": {
+      "tag": "forge:string"
+    },
+    "c": {
+      "tag": "forge:chests/wooden"
+    }
+  },
+  "result": {
+    "item": "beansbackpacks:backpack",
+    "count": 1
+  }
+}

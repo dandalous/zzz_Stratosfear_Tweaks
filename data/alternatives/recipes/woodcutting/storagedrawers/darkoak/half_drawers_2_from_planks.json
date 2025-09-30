@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 2,
+    "ingredient": {
+        "item": "minecraft:dark_oak_planks"
+    },
+    "result": "storagedrawers:dark_oak_half_drawers_2"
+}

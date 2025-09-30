@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "#minecraft:shulker_boxes", "required": false },
+        { "id": "#minecraft:swords", "required": false },
+        { "id": "#forge:tools/shields", "required": false },
+        { "id": "#forge:tools/pickaxes", "required": false },
+        { "id": "#forge:tools/axes", "required": false },
+        { "id": "#forge:tools/shovels", "required": false },
+        { "id": "#forge:tools/hoes", "required": false },
+        { "id": "#forge:tools/wrench", "required": false },
+        { "id": "#supplementaries:overencumbering", "required": false }
+    ]
+}

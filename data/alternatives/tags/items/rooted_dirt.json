@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "minecraft:rooted_dirt", "required": false },
+        { "id": "immersive_weathering:rooted_grass_block", "required": false }
+    ]
+}

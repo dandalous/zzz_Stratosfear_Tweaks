@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "red_nether_bricks_kitchen",
+  "pattern": ["III", "BBB", "BCB"],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "B": {
+      "item": "minecraft:red_nether_bricks"
+    },
+    "C": {
+      "item": "vinery:stackable_log"
+    }
+  },
+  "result": {
+    "item": "bakery:red_nether_bricks_stove",
+    "nbt": "{BlockStateTag:{lit:\"false\"}}"
+  }
+}

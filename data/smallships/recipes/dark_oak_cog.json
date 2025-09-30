@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "cog",
+  "pattern": [
+    "  f  ",
+    " lsl ",
+    "f f f",
+    " bbb "
+  ],
+  "key": {
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "b": {
+      "item": "minecraft:dark_oak_boat"
+    },
+    "f": {
+      "item": "minecraft:dark_oak_fence"
+    }
+  },
+  "result": {
+    "item": "smallships:dark_oak_cog"
+  }
+}

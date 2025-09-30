@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/zinc"
+    }
+  ],
+  "result": [
+    {
+      "item": "createaddition:zinc_sheet"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/hammers"
+  }
+}

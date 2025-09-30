@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+      {
+      "item": "minecraft:sand"
+      }
+  ],
+  "result": [
+    {
+      "chance": 0.95,
+      "item": "minecraft:sand"
+    },
+    {
+      "chance": 0.25,
+      "item": "immersive_weathering:sand_layer_block"
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:clay_ball"
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "shovel_dig"
+  }
+}

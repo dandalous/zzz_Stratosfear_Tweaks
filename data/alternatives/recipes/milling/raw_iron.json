@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:raw_materials/iron"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "item": "create:crushed_raw_iron"
+    }
+  ]
+}

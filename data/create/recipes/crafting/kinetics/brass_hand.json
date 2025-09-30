@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "misc",
+  "ingredient": {
+    "tag": "forge:plates/brass"
+  },
+  "count": 1,
+  "result": "create:brass_hand",
+  "show_notification": true
+}

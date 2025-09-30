@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:moss_block"
+    }
+  ],
+  "results": [
+    { "chance": 0.99, "item": "minecraft:moss_block" },
+    { "chance": 0.66, "item": "immersive_weathering:moss_clump", "count": 4 },
+    { "chance": 0.66, "item": "twigs:twig" },
+    { "chance": 0.33, "item": "minecraft:grass" },
+    { "chance": 0.33, "item": "minecraft:azalea" },
+    { "chance": 0.33, "item": "minecraft:moss_carpet" },
+    { "chance": 0.11, "item": "minecraft:glow_berries" },
+    { "chance": 0.11, "item": "immersive_weathering:azalea_flowers" },
+    { "chance": 0.11, "item": "naturalist:caterpillar" }
+  ]
+}

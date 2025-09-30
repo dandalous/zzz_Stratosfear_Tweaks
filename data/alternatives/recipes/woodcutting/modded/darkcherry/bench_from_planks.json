@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 2,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "vinery:dark_cherry_planks"
+    },
+    "result": "everycomp:hc/vinery/dark_cherry_bench"
+}

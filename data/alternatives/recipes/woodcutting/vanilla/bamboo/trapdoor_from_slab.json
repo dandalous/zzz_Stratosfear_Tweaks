@@ -1,0 +1,8 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:bamboo_slab"
+  },
+  "ingredient_count": 4,
+  "result": "minecraft:bamboo_trapdoor"
+}

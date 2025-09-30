@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 8,
+    "ingredient": {
+        "item": "minecraft:birch_slab"
+    },
+    "result": "storagedrawers:birch_half_drawers_1"
+}

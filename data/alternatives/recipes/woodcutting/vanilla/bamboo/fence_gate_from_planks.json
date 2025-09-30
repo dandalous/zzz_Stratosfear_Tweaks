@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:bamboo_planks"
+  },
+  "result": "minecraft:bamboo_fence_gate"
+}

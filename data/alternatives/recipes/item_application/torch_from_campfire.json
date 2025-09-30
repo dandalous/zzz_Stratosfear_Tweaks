@@ -1,0 +1,22 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "minecraft:campfire",
+      "nbt": "{BlockStateTag:{lit:\"true\"}}"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.95,
+      "item": "minecraft:campfire"
+    },
+    {
+      "item": "minecraft:torch"
+    }
+  ],
+  "show_notification": true
+}

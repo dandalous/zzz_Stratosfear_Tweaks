@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 2,
+    "ingredient": {
+        "item": "mynethersdelight:powdery_planks"
+    },
+    "result": "everycomp:sd/mynethersdelight/powdery_full_drawers_4"
+}

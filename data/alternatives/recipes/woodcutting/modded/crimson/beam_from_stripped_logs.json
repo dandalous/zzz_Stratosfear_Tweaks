@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "minecraft:stripped_crimson_stem"
+    },
+    "result": "decorative_blocks:crimson_beam"
+}

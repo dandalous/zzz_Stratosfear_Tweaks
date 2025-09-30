@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "key": {
+        "i": {
+            "tag": "forge:plates/iron"
+        },
+        "c": {
+            "tag": "forge:chests/wooden"
+        }
+    },
+    "pattern": [
+        "i i",
+        "ici",
+        " i "
+    ],
+    "result": {
+        "count": 6,
+        "item": "minecraft:hopper"
+    },
+    "show_notification": true
+}

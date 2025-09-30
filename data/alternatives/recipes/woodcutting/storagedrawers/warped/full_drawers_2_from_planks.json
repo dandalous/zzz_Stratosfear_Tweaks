@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 1,
+    "ingredient_count": 4,
+    "ingredient": {
+        "item": "minecraft:warped_planks"
+    },
+    "result": "storagedrawers:warped_full_drawers_2"
+}

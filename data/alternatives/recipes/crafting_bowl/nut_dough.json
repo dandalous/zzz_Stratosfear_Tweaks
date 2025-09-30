@@ -1,0 +1,20 @@
+{
+  "type": "bakery:crafting_bowl",
+  "ingredients": [
+    {
+      "tag": "forge:nut_butter"
+    },
+    {
+      "item": "bakery:yeast"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:water"
+    }
+  ],
+  "result": {
+    "item": "delightful:nut_dough"
+  }
+}

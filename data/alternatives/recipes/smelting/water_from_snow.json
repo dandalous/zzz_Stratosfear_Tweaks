@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": [
+        {
+            "item": "minecraft:powder_snow_bucket"
+        }
+    ],
+    "result": "minecraft:water_bucket",
+    "experience": 0,
+    "cookingtime": 100,
+    "show_notification": true
+}

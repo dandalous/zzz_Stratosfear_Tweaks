@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "equipment",
+	"ingredients": [
+		{"item": "minecraft:feather"},
+		{"tag": "forge:nuggets/copper"},
+		{"item": "minecraft:stick"}
+	],
+	"result": {
+		"item": "minecraft:brush",
+		"count": 1
+	}
+}

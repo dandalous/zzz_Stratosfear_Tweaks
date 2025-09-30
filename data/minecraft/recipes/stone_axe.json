@@ -1,0 +1,16 @@
+
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_axe"
+  },
+  "addition": {
+    "tag": "forge:plates/copper"
+  },
+  "result": {
+    "item": "minecraft:stone_axe"
+  },
+  "template": {
+    "tag": "forge:slimeballs"
+  }
+}

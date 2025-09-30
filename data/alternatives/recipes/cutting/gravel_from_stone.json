@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:cobblestone"
+      },
+      {
+        "item": "minecraft:mossy_cobblestone"
+      },
+      {
+        "item": "minecraft:stone"
+      },
+      {
+        "item": "immersive_weathering:mossy_stone"
+      }
+    ]
+  ],
+  "result": [
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "chance": 0.25,
+      "count": 2,
+      "item": "twigs:pebble"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/hammers"
+  }
+}

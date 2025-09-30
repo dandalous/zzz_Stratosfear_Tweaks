@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "CWC",
+        " C "
+    ],
+    "key": {
+        "S": {
+            "item": "farmersdelight:straw"
+        },
+        "W": {
+            "tag": "minecraft:wool_carpets"
+        },
+        "C": {
+            "item": "farmersdelight:canvas"
+        }
+    },
+    "result": {
+        "item": "supplementaries:lunch_basket"
+    },
+    "conditions": [
+        {
+            "type": "supplementaries:flag",
+            "flag": "lunch_basket"
+        }
+    ]
+}

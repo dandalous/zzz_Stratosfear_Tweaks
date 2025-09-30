@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 2,
+    "ingredient_count": 1,
+    "ingredient": {
+        "item": "minecraft:spruce_planks"
+    },
+    "result": "handcrafted:spruce_bench"
+}

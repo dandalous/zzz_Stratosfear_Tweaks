@@ -1,0 +1,7 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:oak_wood"
+  },
+  "result": "minecraft:oak_log"
+}

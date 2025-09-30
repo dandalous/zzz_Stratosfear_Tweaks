@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sandstone_kitchen",
+  "pattern": ["III", "BBB", "BCB"],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "B": {
+      "item": "minecraft:sandstone"
+    },
+    "C": {
+      "item": "vinery:stackable_log"
+    }
+  },
+  "result": {
+    "item": "bakery:sandstone_stove",
+    "nbt": "{BlockStateTag:{lit:\"false\"}}"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:kelp", "required": false },
+    { "id": "supplementaries:flax", "required": false },
+    { "id": "immersive_weathering:moss_clump", "required": false }
+  ]
+}

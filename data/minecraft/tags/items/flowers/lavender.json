@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "id": "hexerei:belladonna_flowers", "required": false },
+        { "id": "hexerei:mandrake_flowers", "required": false },
+        { "id": "hexerei:dried_belladonna_flowers", "required": false },
+        { "id": "hexerei:dried_mandrake_flowers", "required": false }
+    ]
+}

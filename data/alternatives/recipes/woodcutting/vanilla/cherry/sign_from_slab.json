@@ -1,0 +1,8 @@
+{
+  "type": "hexerei:woodcutting",
+  "ingredient": {
+    "item": "minecraft:cherry_slab"
+  },
+  "ingredient_count": 2,
+  "result": "minecraft:cherry_sign"
+}

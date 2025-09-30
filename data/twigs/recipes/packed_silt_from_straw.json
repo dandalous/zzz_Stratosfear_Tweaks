@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "farmersdelight:straw"
+        },
+        {
+            "item": "immersive_weathering:silt"
+        },
+        {
+            "item": "immersive_weathering:silt"
+        }
+    ],
+    "result": {
+        "count": 2,
+        "item": "twigs:packed_silt"
+    }
+}

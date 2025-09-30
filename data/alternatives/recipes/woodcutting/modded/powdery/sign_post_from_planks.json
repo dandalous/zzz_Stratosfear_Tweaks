@@ -1,0 +1,9 @@
+{
+    "type": "hexerei:woodcutting",
+    "count": 2,
+    "ingredient": {
+        "item": "mynethersdelight:powdery_planks"
+    },
+    "ingredient_count": 1,
+    "result": "supplementaries:mynethersdelight/sign_post_powdery"
+}

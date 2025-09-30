@@ -1,0 +1,4 @@
+{
+  "replace": false,
+  "values": [{ "id": "#forge:wax", "required": false }]
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": [
+        {
+            "item": "minecraft:flint"
+        }
+    ],
+    "result": "minecraft:quartz",
+    "experience": 0.2,
+    "cookingtime": 200,
+    "show_notification": true
+}

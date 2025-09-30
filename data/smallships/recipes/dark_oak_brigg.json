@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "group": "brigg",
+  "pattern": [
+    "   f ",
+    "lslsl",
+    "ss ss",
+    "ff ff",
+    " bbb "
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "s": {
+      "tag": "minecraft:banners"
+    },
+    "b": {
+      "item": "minecraft:dark_oak_chest_boat"
+    },
+    "f": {
+      "item": "minecraft:dark_oak_fence"
+    }
+  },
+  "result": {
+    "item": "smallships:dark_oak_brigg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "alternatives:coarse_dirt"
+    }
+  ],
+  "results": [
+    { "chance": 0.99, "item": "minecraft:dirt" },
+    { "chance": 0.66, "item": "minecraft:flint" },
+    { "chance": 0.66, "item": "twigs:pebble" },
+    { "chance": 0.33, "item": "minecraft:gravel" }
+  ]
+}
